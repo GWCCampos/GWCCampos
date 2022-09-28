@@ -1,5 +1,8 @@
 ### 👋 Olá, me chamo Gabriel Wanguestel
-Atualmente estudando Desenvolvimento Web Full Stack na [Trybe](https://betrybe.com) <img height="15" src="https://pbs.twimg.com/profile_images/1412038025098444800/Kx6Wj0hl_400x400.jpg" alt="Trybe icon"/>
+
+Um apaixonado por programação e um estudante de Desenvolvimento Web Full Stack na [Trybe](https://betrybe.com) <img height="15" src="https://pbs.twimg.com/profile_images/1412038025098444800/Kx6Wj0hl_400x400.jpg" alt="Trybe icon"/>. Venho aprendendo JavaScript(JS) desde 2020, mas engatei nos meus aprendizados em 2022, formado agora nos dois primeiros módulos do curso da Trybe sendo um desenvolvedor FrontEnd formado, tendo conhecimento em ReactJS, Redux, e Context API, mas entendo que ainda tenho muito a aprender. Aprecio Bastante o respeito e a determinação das pessoas em mudar pra melhor, acredito que a mudança seja uma das coisas mais importantes. Além de programar amo escrever e ler qualquer gênero literário. 
+ 
+
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
