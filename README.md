@@ -33,15 +33,13 @@ Um apaixonado por programação e um estudante de Desenvolvimento Web Full Stack
 <code><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GWCCampos&layout=compact&theme=dracula" alt="GWCCampos :: Top Languages Status"/></a></code>
 
 ### ☕ Me Encontre
-<div align="left">
- <code><a href="https://www.instagram.com/gwccampos/"><img height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="Instagram Icon"/></a></code>
- <code><span>@gwccampos</span></code>
-<div>
+ 
 <div align="left">
  <code><a href="https://www.linkedin.com/in/gabriel-wanguestel"><img height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="Linkedin Icon"/></a></code>
  <code><span>/gabriel-wanguestel</span></code>
 <div>
- <div align="left">
+ 
+<div align="left">
  <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email Icon"/></code>
  <code><span>gabrielwanguestel26@gmail.com</span></code>
 <div>
