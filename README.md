@@ -41,6 +41,10 @@ Um apaixonado por programação e um estudante de Desenvolvimento Web Full Stack
  <code><a href="https://www.linkedin.com/in/gabriel-wanguestel"><img height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="Linkedin Icon"/></a></code>
  <code><span>/gabriel-wanguestel</span></code>
 <div>
+ <div align="left">
+ <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email Icon"/></code>
+ <code><span>gabrielwanguestel26@gmail.com</span></code>
+<div>
 
 ### 🎬 Créditos
 
