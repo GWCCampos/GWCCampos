@@ -20,10 +20,15 @@ Um apaixonado por programação e um estudante de Desenvolvimento Web Full Stack
 <code><a href="https://docs.docker.com/get-started/"><img height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" alt="Docker Icon"/></a></code>
 <code><a href="https://docs.oracle.com/en-us/iaas/mysql-database/doc/getting-started.html"><img height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" alt="MySQL Icon"/></a></code>
 <code><a href="https://nodejs.org/en/docs/"><img height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" alt="NodeJS Icon"/></a></code>
+<code><a href="https://www.mongodb.com/docs/"><img height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" alt="Mongodb Icon"/></a></code>
+<code><a href="https://www.typescriptlang.org/docs/"><img height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" alt="TypeScript Icon"/></a></code>
 <div>
 
 ### 📖 Estudando no momento
 
+<div align="left">
+<code><a href="https://www.python.org"><img height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="Python Icon"/></a></code>
+</div>
 
 ### 🏆 Github Status
 <code><a href=""><img src="https://github-readme-stats.vercel.app/api?username=GWCCampos&theme=dracula" alt="GWCCampos :: Profile Status"></a></code>
